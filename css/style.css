@@ -1,8 +1,9 @@
 body { 
-background-color: #333300;
-color: #FFFFFF;
+background-color: #bbb;
 }
-
+.nav {
+    background: #fff
+}
 .nav__flex {
     display: flex;
     justify-content: space-between;
